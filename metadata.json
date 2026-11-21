@@ -1,0 +1,6 @@
+{
+  "name": "FireHUD Simulator",
+  "description": "Futuristic black-and-red tactical gaming control panel UI and interactive aim-training HUD simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
